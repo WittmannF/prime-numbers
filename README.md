@@ -11,3 +11,7 @@ That means that 15% of given times, the next prime number was 6 plus a given pri
 
 
 - **Total number of distances between prime numbers (from 2 to 5,450,147):** 76 numbers
+
+- **Visualization of prime numbers**:
+
+[Click here]() for the full list.
