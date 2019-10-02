@@ -13,5 +13,6 @@ That means that 15% of given times, the next prime number was 6 plus a given pri
 - **Total number of distances between prime numbers (from 2 to 5,450,147):** 76 numbers
 
 - **Visualization of prime numbers**:
+![Screen Shot 2019-10-02 at 17 08 40](https://user-images.githubusercontent.com/5733246/66078333-36b0da80-e538-11e9-9e0c-1f2bdd26ddc7.png)
 
-[Click here]() for the full list.
+[Click here](https://github.com/WittmannF/prime-numbers/blob/master/visualize_primes_0_10k.csv) for the full list.
